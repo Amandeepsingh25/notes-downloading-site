@@ -41,6 +41,11 @@ body {
   transform:translate(-50%, -50%);
   color: aliceblue;
 }
+.space {
+    width: 15px;
+    height: 25px;
+    display: inline-block;
+  }
 h1 {
   font-family:monospace;
 }
@@ -49,6 +54,7 @@ button{
     height: 60px;
     width: 200px;
     margin: 0 35px;
+    margin-right:0px;
     border-radius: 50px;
     border: none;
     outline: none;
