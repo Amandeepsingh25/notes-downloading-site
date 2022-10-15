@@ -39,7 +39,13 @@ body {
   top:50%;
   transform:translate(-50%, -50%);
 }
-
+.button{
+    background:lightgreen;
+    border:none;
+}
+.button:hover{
+    background-color:lightpink;
+}
 h1 {
   font-family:monospace;
 }
